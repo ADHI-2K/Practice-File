@@ -1,0 +1,18 @@
+** ETL Pipeline Using Open-Source Tools **
+
+For this assignment, I used SQL and Python for the Extract, Transform, Load (ETL) process, selecting a dataset from Kaggle due to its rich variety.
+
+1. Extract Data: I extracted relevant data from a large Kaggle dataset using SQL queries to select necessary tables and columns.
+
+2. Transform: I cleaned the data by removing missing or invalid entries and performed aggregations, such as calculating sums and averages. I also filtered the dataset based on specific criteria to enhance its relevance for analysis.
+
+3. Load: Finally, I saved the transformed data into a CSV file, making it accessible for further analysis and visualization. This streamlined approach ensured I was working with high-quality, relevant data.
+
+4. Automated Data Extraction: Implemented scripts to connect the data with the SQL database and to provide the result of the automated data.
+
+
+** Tools Used **
+
+1. SQL Developer
+
+2. Python 
