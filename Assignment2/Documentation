@@ -1,0 +1,7 @@
+**SQL Data Analysis on a Local Database**
+
+For this analysis, I imported data from Kaggle. The first task was to count the total number of records in the dataset. Next, I calculated both the SUM and the AVG of a specific numerical column. Finally, I applied a WHERE condition to filter the data based on a particular value.
+
+Tool Used 
+
+1. SQL Developer 
